@@ -1,0 +1,38 @@
+h1 {
+    color: white
+}
+
+
+.header {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between
+}
+.menu {
+align-items: right;
+display:  flex;
+justify-content: flex-end;
+background-color:  cadetblue;
+}
+
+.grid {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    background-color: greenyellow;
+}
+.middle {
+    text-align:center;
+    background-color: palegoldenrod
+}
+
+p,h2 {
+    
+text-align:center;
+background-color: palegoldenrod
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    
+    }
